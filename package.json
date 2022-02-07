@@ -1,5 +1,6 @@
 {
-  "name": "kausik-das-portfolio",
+  "name": "Resume",
+  "homepage": "https://prarabdha-soni.github.io/Resume"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
